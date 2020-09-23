@@ -1,4 +1,4 @@
-# redempleo
+# Scrummers
 
 ## Project setup
 ```
